@@ -7,4 +7,7 @@ public class Test {
     public void test02(){
         System.out.println("222");
     }
+    public void test01(){
+        System.out.println("1111");
+    }
 }
